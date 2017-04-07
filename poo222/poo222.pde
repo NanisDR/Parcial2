@@ -1,10 +1,6 @@
 
 
-git init;
-git add;
-git commit -m "first commit"
-git remote add origin https://github.com/NanisDR/Parcial2.git
-git push -u origin master;
+
 
 
 import shiffman.box2d.*;
